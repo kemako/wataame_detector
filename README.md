@@ -4,6 +4,10 @@
 ## Website
 https://kemako.github.io/wataame_detector/
 
+## 実際の様子
+- 下の画像をクリックするとYoutubeで動画を再生できます
+[![実際の様子](http://img.youtube.com/vi/F1th9aU9jrY/0.jpg)](http://www.youtube.com/watch?v=F1th9aU9jrY)
+
 ## 最適なわたあめとは？
 - わたあめの最適な形状を数学的に定義
 - 上端、下端に比べて中央が膨らんでいる形状を最適な形状とする
@@ -46,6 +50,7 @@ https://kemako.github.io/wataame_detector/
 - 上中下の分散を比較し、巻き取るべき方向を算出
 - up/down/wakannyaiの3種類で表示
 
-### 実際の様子
-- 下の画像をクリックするとYoutubeで動画を再生できます
-[![実際の様子](http://img.youtube.com/vi/F1th9aU9jrY/0.jpg)](http://www.youtube.com/watch?v=F1th9aU9jrY)
+## わかったこと
+- CSVだけでわたあめを検出するのは厳しい
+- 照明条件が厳しすぎる
+  - 背景が光を反射して白く光るとわたあめと検出されてしまう
