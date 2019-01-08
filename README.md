@@ -45,3 +45,7 @@ https://kemako.github.io/wataame_detector/
 ### 指示
 - 上中下の分散を比較し、巻き取るべき方向を算出
 - up/down/wakannyaiの3種類で表示
+
+### 実際の様子
+- 下の画像をクリックするとYoutubeで動画を再生できます
+[![実際の様子](http://img.youtube.com/vi/F1th9aU9jrY/0.jpg)](http://www.youtube.com/watch?v=F1th9aU9jrY)
